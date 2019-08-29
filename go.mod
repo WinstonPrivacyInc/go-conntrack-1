@@ -1,4 +1,4 @@
-module github.com/florianl/go-conntrack
+module github.com/winstonprivacyinc/go-conntrack
 
 require (
 	github.com/mdlayher/netlink v0.0.0-20190411141321-3cae06de9d30

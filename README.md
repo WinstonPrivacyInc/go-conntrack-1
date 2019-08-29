@@ -11,7 +11,7 @@ package main
 import (
     "fmt"
 
-    ct "github.com/florianl/go-conntrack"
+    ct "github.com/winstonprivacyinc/go-conntrack"
 )
 
 func main() {

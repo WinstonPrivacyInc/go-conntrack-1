@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	ct "github.com/florianl/go-conntrack"
+	ct "github.com/winstonprivacyinc/go-conntrack"
 )
 
 func ExampleNfct_Dump() {

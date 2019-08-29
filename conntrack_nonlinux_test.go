@@ -3,7 +3,7 @@
 package conntrack_test
 
 import "testing"
-import ct "github.com/florianl/go-conntrack"
+import ct "github.com/winstonprivacyinc/go-conntrack"
 
 func TestOthersUnimplemented(t *testing.T) {
 	want := ct.ErrNotLinux
